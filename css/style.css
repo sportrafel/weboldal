@@ -63,8 +63,8 @@ body {
 
 .hero_area video {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 20%;
+  left: 20%;
   width: auto;
   height: auto;
   object-fit: cover;
